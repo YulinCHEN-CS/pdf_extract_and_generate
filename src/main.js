@@ -4,7 +4,7 @@ const infoExtractor = require("./info_extractor.js");
 const tableExtractor = require("./table_extractor.js");
 const json2pdf = require("./json2pdf.js");
 const fs = require('fs');
-const pdfPath = './test_pdf/test4.pdf';
+const pdfPath = './pdfs/PAPE-2.0-English.pdf';
 const jsonTextOutputPath = './jsons_generated/parsed.json';
 
 

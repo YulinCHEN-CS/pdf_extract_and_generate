@@ -59,3 +59,4 @@ async function extract_tables(pdfPath) {
 module.exports = {
     extract_tables
 };
+
