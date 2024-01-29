@@ -14,15 +14,15 @@ function main() {
     });
 
     pdfParser.on("pdfParser_dataReady", pdfData => {
-        console.log('---------pdf overview--------');
-        console.log(pdfData);
-        console.log('-----------------------------');
-
+        // console.log('---------pdf overview--------');
+        // console.log(pdfData);
+        // console.log('-----------------------------');
+        fillsInfo = [];
         // Process each page in the PDF
         for (let i = 0, len = pdfData.Pages.length; i < len; i++) {
             console.log(`---------pdf page ${i}--------`);
             const page = pdfData.Pages[i];
-
+            
             // Process each fill (rectangle) in the page
             page.Fills.forEach(fill => processFill(fill, page.Texts, page.HLines.sort((a, b) => a.y - b.y)));
         }
@@ -31,33 +31,41 @@ function main() {
 
 // Process a fill (rectangle) in the page
 function processFill(fill, textsInPage, hLinesInPage) {
-    console.log(`Boxset: X: ${fill.x}, Y: ${fill.y}, Width: ${fill.w}, Height: ${fill.h}, color: ${fill.clr}`);
+    // console.log(`Boxset: X: ${fill.x}, Y: ${fill.y}, Width: ${fill.w}, Height: ${fill.h}, color: ${fill.clr}`);
 
     // Filter texts that are inside the current fill
     const textsInBox = textsInPage.filter(text => isTextInBox(text, fill));
 
-    console.log('Texts in box:');
-    console.log(textsInBox.map(text => ({
-        text: decodeURIComponent(text.R[0].T),
-        textMatrix: text.Tm // Text Matrix
-    })));
+    // console.log('Texts in box:');
+    // console.log(textsInBox.map(text => ({
+    //     text: decodeURIComponent(text.R[0].T),
+    //     textMatrix: text.Tm // Text Matrix
+    // })));
 
     // Merge horizontal lines with the same y value
     const mergedHLines = mergeHLinesInBox(fill, hLinesInPage);
 
-    console.log('Merged Horizontal Lines in box:');
-    console.log(mergedHLines);
+    // console.log('Merged Horizontal Lines in box:');
+    // console.log(mergedHLines);
 
     // Split texts into cells based on horizontal lines
     const cells = splitIntoCells(textsInBox, mergedHLines);
 
     console.log('Cells:');
     cells.forEach((cell, i) => {
-        console.log(`-----------${i}-------------`);
-        console.log(processCell(cell));
+        // console.log(`-----------${i}-------------`);
+        cells[i] = processCell(cell);
     });
 
     console.log(cells.length);
+    console.log(cells);
+    fillsInfo.push({
+        x: fill.x,
+        y: fill.y,
+        width: fill.w,
+        height: fill.h,
+        cells: cells,
+    });
 }
 
 // Check if a text is inside a given fill (rectangle)
@@ -84,11 +92,11 @@ function mergeHLinesInBox(fill, hLinesInPage) {
 
     // If the last horizontal line is above the fill bottom, add a line at fill's bottom
     const lastLine = hLinesInBox[hLinesInBox.length - 1];
-    console.log("last line y: ", lastLine.y);
-    console.log("last line w: ", lastLine.w);
-    console.log("fill y + fill w: ", fill.y + fill.h);
+    // console.log("last line y: ", lastLine.y);
+    // console.log("last line w: ", lastLine.w);
+    // console.log("fill y + fill w: ", fill.y + fill.h);
     if (lastLine && lastLine.y + lastLine.w < fill.y + fill.h) {
-        console.log("pushing bottom line");
+        // console.log("pushing bottom line");
         hLinesInBox.push({ y: fill.y + fill.h, w: fill.w });
     }
 
