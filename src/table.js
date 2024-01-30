@@ -1,6 +1,7 @@
 module.exports = class Table {
-    constructor(name) {
+    constructor(name, pageNumber) {
         this.name = name;
+        this.pageNumber = pageNumber;
         this.keys = [];
         this.values = [];
     }
@@ -18,9 +19,11 @@ module.exports = class Table {
         return `Table {
     name: ${this.name},
     
-    keys: ${JSON.stringify(this.keys)},
+    page number: ${this.pageNumber},
 
-    values: ${JSON.stringify(this.values)}
+    keys: ${this.keys.join('\n')},
+
+    values: ${this.values.join('\n')}
 }`;
     }
 }
