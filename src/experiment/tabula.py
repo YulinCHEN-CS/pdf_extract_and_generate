@@ -1,4 +1,4 @@
-import tabula
+import experiment.tabula as tabula
 from tabulate import tabulate 
 
 file = "./pdfs/PAPE-2.0-English-test.pdf"
