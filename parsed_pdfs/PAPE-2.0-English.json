@@ -476,6 +476,330 @@
   },
   "DROUGHT": {
     "Assess and plan": {
+      "pageNumber": 44,
+      "keys": [
+        [
+          "Be informed"
+        ],
+        [
+          "Work with your neighbours and community to present drought impacts"
+        ],
+        [
+          "Participate in planning for rationing of water and food"
+        ],
+        [
+          "Approach water as a community resource, and plan accordingly"
+        ],
+        [
+          "Assess epidemic risks and plan for prevention "
+        ],
+        [
+          "Plan to improve your household food security"
+        ]
+      ],
+      "values": [
+        [
+          "• Learn about monthly, seasonal and long-term weather outlooks and what they may mean in your area.",
+          "• Understand the optimal weather conditions for different agricultural prac-tices and water requirements, and compare with current practices.",
+          "• Find out about communication channels for early warning about drought in your community."
+        ],
+        [
+          "• Participate in community risk mapping, capacity mapping and drought monitoring.",
+          "• Work with local authorities to develop a drought mitigation plan.",
+          "• Work with local water suppliers to develop a water conservation plan."
+        ],
+        [
+          "• Plan for an initial basic ration of food equivalent to about 2,100 calories per person per day. The food ration should be as simple as possible, to include:",
+          "• a basic staple such as rice, corn, wheat flour or corn–soy blend)",
+          "• a concentrated source of energy (oil or another fat)",
+          "• a concentrated source of protein, such as beans, peas, lentils.*",
+          "• Learn about the most vulnerable people in the community, including who and where they are and how you can help them."
+        ],
+        [
+          "• Work with local authorities wherever possible to plan for and reduce the impacts of water shortages.",
+          "• Identify water resources and learn how to conserve and extend them.",
+          "• Plan your own land use with water conservation in mind."
+        ],
+        [
+          "• Stay in contact with your primary health care providers and learn about:",
+          "• how to keep water clean or purify it",
+          "• good sanitation and hygiene practices",
+          "• available immunization programmes",
+          "• the air-, water- or vector-borne risks you may face",
+          "• what kinds of information requires communicating."
+        ],
+        [
+          "• Buy crop insurance.",
+          "• Plant backyard gardens.",
+          "• Set up seed banks."
+        ]
+      ]
+    },
+    "Mitigate risks: physical or environmental": {
+      "pageNumber": 46,
+      "keys": [
+        [
+          "Participate in community water resource management"
+        ],
+        [
+          "Prevent deforestation and practise reforestation"
+        ],
+        [
+          "Conserve water in soil through sustainable agriculture and landscaping practices"
+        ],
+        [
+          "Conserve water by minimizing outdoor usage "
+        ],
+        [
+          "Conserve water by minimizing indoor usage"
+        ],
+        [
+          "Protect yourself in your home"
+        ]
+      ],
+      "values": [
+        [
+          "• Protect water catchment areas from evaporation and contamination (for example by using pesticides), and minimize waste."
+        ],
+        [
+          "• Protect water catchment areas from deforestation.",
+          "• Re-forest water catchment areas."
+        ],
+        [
+          "• Plant trees – especially species that need little water – and mulch around them. ",
+          "• Use mulching and other crop covers to capture or retain water and reduce evaporation.",
+          "• Recycle irrigation water.",
+          "• Avoid waste of irrigation water due to poor-quality irrigation canals.",
+          "• Identify and cultivate early maturing, drought-tolerant crops.",
+          "• Reduce run-off and improve rainwater infiltration by planting barriers such as vetiver, lemongrass or agave.",
+          "• Implement crop diversification and inter-cropping to improve yields by having plants complement and support each other.",
+          "• Avoid slash and burn agriculture.",
+          "• Practise conservation agriculture. This involves:",
+          "• ensuring minimum mechanical soil disturbance (‘no-till’ techniques) to maintain minerals, stop erosion and prevent water loss",
+          "• managing topsoil to create permanent organic soil cover, allowing for growth of organisms",
+          "• practising crop rotation with more than two species.",
+          "• Increase soil fertility and water retention by using animal compost and plant manures to add nutrients and organic matter to soil.",
+          "• Replace sprinkler systems with drip irrigation, applied close to plant roots to prevent waste.",
+          "• Use a soil moisture indicator to see when watering is needed. Water the garden or ground cover early in the day, and not on windy days. ",
+          "• Lay green driveways and water-permeable asphalt rather than concrete."
+        ],
+        [
+          "• Inspect pipes and outdoor taps for leaks, and repair them.",
+          "• Store water at the household level.",
+          "• Cover wells to reduce evaporation.",
+          "• Harvest rainwater in aboveground or belowground tanks. (Note: the water may need purification treatment before it is safe to drink.)",
+          "• Use alternatives to water (for example, sand for washing).",
+          "• Avoid over-grazing and manage the stocking rate.",
+          "• Recycle household grey water for toilet, and for irrigation and home gardens. Recycle fish tank water for plants.",
+          "• Reduce water consumption by landscaping with low-water plants and rock gardens. In rainy conditions, turn off automatic sprinklers. ",
+          "• Conserve water outdoors by cleaning pathways with a broom (not water), washing cars with a bucket, and covering pools to reduce evaporation.",
+          "• Insulate hot water pipes.",
+          "• Where livestock use the same source as people, explore alternative meth-ods of water usage."
+        ],
+        [
+          "• Inspect pipes, taps and toilets for leaks, and repair them.",
+          "• Conserve running water at home. For example:",
+          "• turn off taps when brushing teeth or shaving",
+          "• take shorter showers",
+          "• install aerating taps and low-flow showerheads",
+          "• clean vegetables in a basin rather than under running water",
+          "• clean greasy hands with waterless hand cleaner",
+          "• install composting toilets or low-volume toilets, or place a brick or sealed bag of water into toilet cistern to reduce flush water",
+          "• wash dishes using two basins rather than doing it under running water",
+          "• in washing machines, match the load setting to amount of laundry, or wash full loads only."
+        ],
+        [
+          "• Close windows and doors to keep heat outside.",
+          "• Create natural ventilation flows inside the house.",
+          "• Drink plenty of water.",
+          "• Limit use of fire stoves and cookers."
+        ]
+      ]
+    },
+    "Prepare to respond: develop skills and store provisions ": {
+      "pageNumber": 48,
+      "keys": [
+        [
+          "Stockpile essential foods"
+        ],
+        [
+          "Preserve and store food year round"
+        ],
+        [
+          "Learn principles of good nutrition "
+        ],
+        [
+          "Group 2",
+          "• peas, beans and lentils",
+          "• tinned/canned beans",
+          "• milk powder (full fat)* or evaporated or long-life milk",
+          "• cheese that does not require refrigeration",
+          "• dried meat and dried fish",
+          "• tinned/canned meat and fish.Group 3",
+          "• grains such as sorghum, millet, rice, corn or wheat",
+          "• cassava, yam or plantain",
+          "• pasta, cereals or flour",
+          "• bread of all kinds",
+          "• crackers",
+          "• noodles",
+          "• instant products, such as dried mashed potato.Group 4",
+          "• oil",
+          "• seeds, including sesame and sunflower.",
+          "• If no fresh food is available, vitamin supplements are recommended.",
+          "• Use salt and condiments to make food tasty."
+        ],
+        [
+          "• Manage pastures or rangelands to protect livestock. ",
+          "• Decide the optimal number of animals that the household can maintain. ",
+          "• Plan de-stocking of animals before the crisis affects them seriously. ",
+          "• Use fodder to sustain the most important animals: mothers and kids, and other productive asset animals. ",
+          "• Keep part of the income from the de-stocking for re-stocking after the drought crises. ",
+          "• Use veterinary services to ensure the health of your livestock."
+        ]
+      ],
+      "values": [
+        [
+          "• Consider which of the following three levels of food security or insecurity you may face:",
+          "• self-sufficient",
+          "• food insecure",
+          "• food and livelihoods insecure."
+        ],
+        [
+          "• Preserve and store dry food, tinned food and grains that last 3–12 months.",
+          "• Store dried yeast, sugar, jams, chutneys, sauces, tealeaves, peanut butter and biscuits.",
+          "• Store products to produce fresh food at home, such as, yoghurt (milk powder, water and yoghurt culture), herbs, germinated seeds (bean sprouts, onion seeds)."
+        ],
+        [
+          "• In average conditions, an adult should drink about 2 litres of water per day, although this amount may increase or decrease under different conditions. ",
+          "• Plan for a basic food ration equivalent to about 2,100 calories per person per day. This should be as simple as possible, to include:",
+          "• a basic staple such as rice, corn, wheat flour or corn–soy blend)",
+          "• a concentrated source of energy (oil or another fat)",
+          "• a concentrated source of protein, such as legumes, beans, peas, lentils.*",
+          "• Learn about the most vulnerable people in the community, including who and where they are and how you can help them.",
+          "• Expand diets by cultivating foods in backyard gardens and foraging.",
+          "• For good nutrition, eat from each of these four food groups, every day: Group 1",
+          "• dried vegetables and fruits ",
+          "• tinned/canned vegetables and fruits",
+          "• bottled vegetables and fruits",
+          "• vegetable and fruit juices",
+          "• dried herbs",
+          "• tomato paste",
+          "• products that can be stored (in the cool and dark) for a relatively long time, such as garlic, onions, potatoes, apples, citrus fruits, carrots and cabbage."
+        ]
+      ]
+    }
+  },
+  "EXTREME HEAT / HEAT WAVE": {
+    "Mitigate risks: physical or environmental": {
+      "pageNumber": 51,
+      "keys": [
+        [
+          "Prepare tools to build temporary cooling/shade structures"
+        ],
+        [
+          "Protect your living space"
+        ],
+        [
+          "Adapt your eating and drinking habits to stay hydrated"
+        ],
+        [
+          "Modify daily routines"
+        ]
+      ],
+      "values": [
+        [
+          "• Construction of cooling and/or shade areas is all the more difficult in extreme heat; preparation in time of less heat can facilitate such tasks."
+        ],
+        [
+          "• Keep rooms cool by using shades or reflective material outside the windows. If this is not possible, use light-coloured curtains and keep them closed (metallic blinds and dark curtains can make the room hotter).",
+          "• Ensure your home has air conditioning if possible."
+        ],
+        [
+          "• Plan ahead to make sure you have enough supplies, such as food, water and any medication required.",
+          "• Eat small meals but eat more frequently.",
+          "• Drink even if you do not feel thirsty. ",
+          "• Map points of potable water in the community to be aware of where you can rehydrate yourself."
+        ],
+        [
+          "• Try to avoid sport and heavy exercise or working during peak hours of the day."
+        ]
+      ]
+    },
+    "Prepare to respond: develop skills and store provisions ": {
+      "pageNumber": 53,
+      "keys": [
+        [
+          "Stay informed: monitor weather, listen to the radio and follow instructions"
+        ],
+        [
+          "Avoid direct exposure to the sun"
+        ],
+        [
+          "Protect yourself with appropriate clothing"
+        ],
+        [
+          "Stay hydrated "
+        ],
+        [
+          "Be aware of the symptoms of heat induced sickness"
+        ],
+        [
+          "Connect with your peers"
+        ],
+        [
+          "Stay aware of people and animals at risk around you"
+        ],
+        [
+          "Cool yourself down"
+        ]
+      ],
+      "values": [
+        [
+          "• Monitor the weather closely to see if extreme hot weather conditions, a heat wave watch or warning is expected in your area (usually there will be several days of lead time)."
+        ],
+        [
+          "• Keep out of the sun, especially during peak hours.",
+          "• If you are outside during peak hours, walk in the shade, and cover your head using a wide-brimmed hat, parasol, or turban.",
+          "• Use sun protection/sunscreen with a high level of UVA/UVB protection."
+        ],
+        [
+          "• Wear loose-fitting, lightweight, light-coloured clothing.",
+          "• Avoid dark colours since they absorb heat."
+        ],
+        [
+          "• Always carry a bottle of water.",
+          "• Assist others: hand out water during events, traffic jams, to people at risk.",
+          "• Remind the elderly, who lack thirst stimulus, to drink regularly (offer more water and soup) – one should drink at least 2 litres of water per day.",
+          "• Avoid alcoholic drinks, too much of sweet and/or very cold drinks since these can cause stomach cramps.  "
+        ],
+        [
+          "• Seek medical help if symptoms such as breathlessness, chest pain, confu-sion, weakness, dizziness or cramps get worse or do not go away.",
+          "• Medical attention is needed if heat cramps last more than one hour.",
+          "• Rest immediately in a cool place if you have painful muscular spasms and drink oral rehydration solutions containing electrolytes.",
+          "• Cancel strenuous activities planned or reschedule them until the coolest time of the day."
+        ],
+        [
+          "• Use a buddy system when working in extreme heat, and reach out to those that are at risk or vulnerable."
+        ],
+        [
+          "• Check on family, friends and neighbours who do not have air conditioning, who spend much of their time alone or who are more likely to be affected by the heat.",
+          "• Check on your animals frequently to ensure that they are not suffering from the heat.",
+          "• Stimulate solidarity and ask people to reach out proactively to support the elderly and chronically ill during times of extreme heat (family, neighbours, friends).",
+          "• Never leave an animal inside a vehicle on a hot day."
+        ],
+        [
+          "• Have cold drinks and avoid excess alcohol, caffeine, and hot drinks.",
+          "• Eat cold foods, particularly those with high water content.",
+          "• Take a cool shower.",
+          "• Keep curtains or blinds closed indoors.",
+          "• Use air conditioning or fans if the temperature outside is above 95 degrees Fahrenheit (35 degrees Celsius) with high humidity.",
+          "• Keep a damp cloth on the back of your neck."
+        ]
+      ]
+    }
+  },
+  "EXTREME COLD & WINTER STORMS / COLD WAVE": {
+    "Assess and plan": {
       "pageNumber": 60,
       "keys": [
         [
